@@ -204,8 +204,4 @@ The dashboard opens at `http://localhost:8501`.
 - Interactive dashboard development with Streamlit and Plotly
 - Translating analytical findings into business recommendations
 
----
 
-## Author
-
-**Anurag**
