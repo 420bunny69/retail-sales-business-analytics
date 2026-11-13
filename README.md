@@ -4,7 +4,7 @@
 ![SQLite](https://img.shields.io/badge/SQL-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Dashboard-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Charts-Plotly-3F4F75?logo=plotly&logoColor=white)
-
+**🔗 [Live Dashboard](https://retail-sales-business-analytics.streamlit.app/)**
 An end-to-end data analytics project that examines retail sales performance, uncovers profitability issues, and turns the findings into actionable business recommendations using **Python, SQL, and Streamlit**.
 
 ---
